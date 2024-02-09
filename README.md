@@ -27,7 +27,4 @@ This application has been tested on Linux Fedora. While it should work on other 
 ## License
 This application is open-source under the [MIT License](LICENSE).
 
-For any issues or suggestions, feel free to open an [issue](https://github.com/yourusername/yourrepository/issues).
-
----
-*Note: Replace "yourusername/yourrepository" with your actual GitHub username and repository name where you host this code.*
+For any issues or suggestions, feel free to open an [issue](https://github.com/guilherme-reis/tk_1_convert_pfx_to_crt_and_key/issues).
