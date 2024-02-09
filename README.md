@@ -3,6 +3,8 @@
 This Python application converts a PFX file to CRT and Private Key files using OpenSSL. It provides a graphical interface built with Tkinter for ease of use.
 
 ## Requirements
+- Python: Ensure Python is installed on your system. This application is written in Python.
+- Tkinter: Tkinter module is required for the graphical user interface. It comes pre-installed with Python, but make sure it's available in your Python installation.
 - OpenSSL: This application relies on OpenSSL for the conversion process. Ensure OpenSSL is installed on your system before using this converter.
 
 ## Compatibility
